@@ -1,2 +1,56 @@
+body{
+	font:18px Times New Roman, sans-serif;
+}
 
+.navbar {
+	background-color: black;
+}
 
+.quem-somos{
+	background-color:#D8D8D8 ;
+	color: black;
+
+}
+.margin{
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+.equipamentos{
+	background-color: gray;
+}
+
+.unidades{
+	background-color: white;
+
+}
+.nossos-serviços{
+	background-color: #D8D8D8;
+}
+.marcas{
+	background-color: red;
+
+}
+
+img{
+	padding: 1px;
+}
+hr{
+	border-color: black;
+}
+
+	
+}
+h4{
+	text-align: center;
+	
+}
+
+.bg-footer{
+	
+		background-color:black;
+		font-style: italic;
+		font-size: 75%;
+		color:white;
+		
+}
